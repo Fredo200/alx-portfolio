@@ -1,6 +1,6 @@
 {
-  "name": "react-portfolio-template",
-  "version": "3.0",
+  "name": "alx-portfolio",
+  "version": "3.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
