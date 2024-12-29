@@ -10,7 +10,7 @@ import { useTheme } from "next-themes";
 import { name, showResume } from "../data/portfolio.json";
 import { resume } from "../data/portfolio.json";
 import data from "../data/portfolio.json";
-
+// Resume
 const Resume = () => {
   const router = useRouter();
   const theme = useTheme();
