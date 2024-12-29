@@ -1,5 +1,5 @@
 import gsap, { Power3 } from "gsap";
-
+// adding animations
 export const stagger = (target, fromvVars, toVars) => {
   return gsap.fromTo(
     target,
