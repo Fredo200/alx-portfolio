@@ -24,4 +24,4 @@ export function getRandomImage() {
     "https://images.unsplash.com/photo-1657295791913-5074c912398e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=996&q=80",
   ];
   return randomImageUrl[Math.floor(Math.random() * randomImageUrl.length)];
-
+}
