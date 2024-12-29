@@ -1,5 +1,5 @@
 import React from "react";
-
+// Adding Custom Cursor Toggle
 const WorkCard = ({ img, name, description, onClick }) => {
   return (
     <div
