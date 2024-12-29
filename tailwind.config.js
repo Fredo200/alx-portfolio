@@ -1,3 +1,4 @@
+// adding Dark Mode
 module.exports = {
   content: [
     "./pages/**/*.{js,ts,jsx,tsx}",
